@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋 Приветствую всех на моем GitHub, с вами Евгений он же Bad4iz :) 
 
-<!--
-**bad4iz/bad4iz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ближе на https://bad4iz.ru
 
-Here are some ideas to get you started:
+#### Виновник русской документации по фреймворку slim
+http://slimframework.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Был активной частью команды vuetify 
+https://vuetifyjs.com
+- виновник внесение в документцию поддержки мультиязычностм
+- бага фиксы 
+- ну и по мелочи прочие
+
+### npm package
+- [color-picture](https://www.npmjs.com/package/color-picture) 
+- [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
+- [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
+- [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin)
+
+## Пропагандирую tdd
+
+
+- на stackoverflow.   https://ru.stackoverflow.com/users/201500/bad4iz
+- Являюсь участником MDN web docs.  https://developer.mozilla.org/ru/profiles/bad4iz
+- Ходил в гости в подкаст Веб-стандарты https://www.youtube.com/watch?v=F8UW9p8Sh04
+
+- физ активность веду в страве https://www.strava.com/athletes/bad4iz
