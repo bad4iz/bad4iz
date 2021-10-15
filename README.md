@@ -19,6 +19,7 @@ https://vuetifyjs.com
 
 ## Пропагандирую tdd
 
+## прочие мелочи
 
 - на stackoverflow.   https://ru.stackoverflow.com/users/201500/bad4iz
 - Являюсь участником MDN web docs.  https://developer.mozilla.org/ru/profiles/bad4iz
