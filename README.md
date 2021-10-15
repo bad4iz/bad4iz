@@ -1,9 +1,6 @@
-![](https://www.codewars.com/users/bad4iz/badges/small)
 
 ## 👋 Приветствую всех на моем GitHub, с вами Евгений он же Bad4iz :)
 ближе на https://bad4iz.ru
-
-
 
 #### Виновник русской документации по фреймворку slim
 http://slimframework.ru
@@ -19,6 +16,9 @@ https://vuetifyjs.com
 - [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
 - [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
 - [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin)
+
+## Есть немного на Codewars
+![](https://www.codewars.com/users/bad4iz/badges/large)
 
 ## Моя философия
 - Самый лучший код - не написаный код
