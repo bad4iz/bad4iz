@@ -44,7 +44,7 @@ https://vuetifyjs.com
 - физ активность веду в страве https://www.strava.com/athletes/bad4iz
 - я в контексте прочитанных книг https://bad4iz.ru/books-read
 - еще в instagram https://www.instagram.com/bad4iz/
-- 
+
 - на stackoverflow.   https://ru.stackoverflow.com/users/201500/bad4iz
 - Являюсь участником MDN web docs.  https://developer.mozilla.org/ru/profiles/bad4iz
 - Ходил в гости в подкаст Веб-стандарты https://www.youtube.com/watch?v=F8UW9p8Sh04
