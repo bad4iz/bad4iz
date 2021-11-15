@@ -46,3 +46,5 @@ https://vuetifyjs.com
 - Ходил в гости в подкаст Веб-стандарты https://www.youtube.com/watch?v=F8UW9p8Sh04
 
 - физ активность веду в страве https://www.strava.com/athletes/bad4iz
+- я в контексте прочитанных книг https://bad4iz.ru/books-read
+- еще в instagram https://www.instagram.com/bad4iz/
