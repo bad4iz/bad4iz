@@ -28,7 +28,7 @@ https://vuetifyjs.com
 
 ## Моя философия
 - Самый лучший код - не написаный код
-- Самый большой грех - переоптимизация
+- Самый большой грех - переоптимизацияCancel changes
 - Код должен легко умирать
 - Код должен быть простым в чтении и понимании
 - Применяй всегда правило пионера (
@@ -41,10 +41,11 @@ https://vuetifyjs.com
 
 ## прочие мелочи
 
+- физ активность веду в страве https://www.strava.com/athletes/bad4iz
+- я в контексте прочитанных книг https://bad4iz.ru/books-read
+- еще в instagram https://www.instagram.com/bad4iz/
+- 
 - на stackoverflow.   https://ru.stackoverflow.com/users/201500/bad4iz
 - Являюсь участником MDN web docs.  https://developer.mozilla.org/ru/profiles/bad4iz
 - Ходил в гости в подкаст Веб-стандарты https://www.youtube.com/watch?v=F8UW9p8Sh04
 
-- физ активность веду в страве https://www.strava.com/athletes/bad4iz
-- я в контексте прочитанных книг https://bad4iz.ru/books-read
-- еще в instagram https://www.instagram.com/bad4iz/
