@@ -6,7 +6,8 @@
 [1]: http://www.quotedb.com/quotes/2112
 
 ## 👋 Приветствую всех на моем GitHub, с вами Евгений он же Bad4iz :)
-ближе на https://bad4iz.ru
+ближе на https://bad4iz.ru   
+или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
 #### Виновник русской документации по фреймворку slim
 http://slimframework.ru
