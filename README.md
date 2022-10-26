@@ -51,3 +51,5 @@ https://vuetifyjs.com
 - Являюсь участником MDN web docs.  https://developer.mozilla.org/ru/profiles/bad4iz
 - Ходил в гости в подкаст Веб-стандарты https://www.youtube.com/watch?v=F8UW9p8Sh04
 
+- курс по react-query https://youtube.com/playlist?list=PL5MDzsMECm45ZzoJ0F2-50aAvbbNd47_E
+
