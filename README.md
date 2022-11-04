@@ -19,6 +19,9 @@ https://vuetifyjs.com
 - бага фиксы 
 - ну и по мелочи прочие
 
+####  Three.js contributor
+https://threejs.org/
+
 ### npm package
 - [color-picture](https://www.npmjs.com/package/color-picture) 
 - [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
