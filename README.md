@@ -27,6 +27,7 @@ https://threejs.org/
 - [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
 - [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
 - [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin)
+- [cuon-matrix](https://www.npmjs.com/package/cuon-matrix)
 
 ## Есть немного на Codewars
 ![](https://www.codewars.com/users/bad4iz/badges/large)
