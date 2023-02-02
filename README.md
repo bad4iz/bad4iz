@@ -28,6 +28,7 @@ https://threejs.org/
 - [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
 - [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin)
 - [cuon-matrix](https://www.npmjs.com/package/cuon-matrix)
+- [prettier-plugin-delete-eslint-disable](https://www.npmjs.com/package/prettier-plugin-delete-eslint-disable)
 
 ## Есть немного на Codewars
 ![](https://www.codewars.com/users/bad4iz/badges/large)
