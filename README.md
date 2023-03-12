@@ -10,7 +10,7 @@
 или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
 ## Мои инструменты
-#### [My IDENvim](https://github.com/bad4iz/IDENvim)
+#### [My IDENvim](https://github.com/bad4iz/web-ide-nvim)
 #### [Моя настройка AstroNvim v3](https://github.com/bad4iz/user_settings-AstroNvim_v3)
 
 
