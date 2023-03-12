@@ -9,6 +9,10 @@
 ближе на https://bad4iz.ru   
 или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
+## [My IDENvim](https://github.com/bad4iz/IDENvim)
+
+## [Моя настройка AstroNvim v3](https://github.com/bad4iz/user_settings-AstroNvim_v3)
+
 #### Виновник русской документации по фреймворку slim
 http://slimframework.ru
 
