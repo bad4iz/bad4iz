@@ -14,7 +14,7 @@
 #### [Моя настройка AstroNvim v3](https://github.com/bad4iz/user_settings-AstroNvim_v3)
 
 
-## мой вклад в опенсорс
+## Мой вклад в опенсорс
 
 #### Виновник русской документации по фреймворку slim
 http://slimframework.ru
