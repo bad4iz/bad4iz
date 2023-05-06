@@ -29,6 +29,10 @@ https://vuetifyjs.com
 ####  Three.js contributor
 https://threejs.org/
 
+### немного демо 
+- [3D-Audio-Visualizer-Three.js](https://bad4iz.github.io/3D-Audio-Visualizer-Three.js/)
+- [scroll aka http://taotajima.jp/](https://bad4iz.github.io/scroll-three.js/)
+
 ### npm package
 - [color-picture](https://www.npmjs.com/package/color-picture) 
 - [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
