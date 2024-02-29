@@ -26,8 +26,9 @@ https://vuetifyjs.com
 - бага фиксы 
 - ну и по мелочи прочие
 
-####  Three.js contributor
+#### contributor
 https://threejs.org/
+https://vitest.dev/
 
 ### немного демо 
 - [3D-Audio-Visualizer-Three.js](https://bad4iz.github.io/3D-Audio-Visualizer-Three.js/)
