@@ -27,8 +27,8 @@ https://vuetifyjs.com
 - ну и по мелочи прочие
 
 #### contributor
-https://threejs.org/
-https://vitest.dev/
+- https://threejs.org/
+- https://vitest.dev/
 
 ### немного демо 
 - [3D-Audio-Visualizer-Three.js](https://bad4iz.github.io/3D-Audio-Visualizer-Three.js/)
