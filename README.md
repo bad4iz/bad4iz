@@ -10,7 +10,7 @@
 или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
 ## Мои инструменты
-#### [Моя настройка AstroNvim v4](https://github.com/bad4iz/nvim_ast_4)
+#### [Моя настройка AstroNvim v4](https://github.com/bad4iz/AstroNVim_v4_config)
 
 
 ## Мой вклад в опенсорс
