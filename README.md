@@ -34,6 +34,7 @@ https://vuetifyjs.com
 - [scroll aka http://taotajima.jp/](https://bad4iz.github.io/scroll-three.js/)
 
 ### npm package
+- [shallowly](https://www.npmjs.com/package/shallowly) - 🏝️ - The Modern Unit Testing Tool for React
 - [color-picture](https://www.npmjs.com/package/color-picture) 
 - [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
 - [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
