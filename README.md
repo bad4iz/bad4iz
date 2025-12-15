@@ -10,6 +10,7 @@
 или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
 ## Мои инструменты
+### [nvimVScode](https://github.com/bad4iz/nvimVScode/tree/master) - Персональная конфигурация Neovim для веб-разработки, оптимизированная для работы с Windsurf, VSCode и standalone Neovim.
 #### [Моя настройка AstroNvim v4](https://github.com/bad4iz/AstroNVim_v4_config)
 
 
