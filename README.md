@@ -6,12 +6,12 @@
 [1]: http://www.quotedb.com/quotes/2112
 
 ## 👋 Приветствую всех на моем GitHub, с вами Евгений он же Bad4iz :)
-ближе на https://bad4iz.ru   
-или немного на youtube: https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A
 
 ### Соцсети и контакты
-[![VK](https://img.shields.io/badge/VK-bad4iz-blue?style=flat-square&logo=vk)](https://vk.com/bad4iz) 
-[![VK Group](https://img.shields.io/badge/VK_Photo-Wonderland_64-blue?style=flat-square&logo=vk)](https://vk.com/wonderland_64) 
+[![Website](https://img.shields.io/badge/Website-bad4iz.ru-green?style=flat-square&logo=googlechrome)](https://bad4iz.ru)
+[![YouTube](https://img.shields.io/badge/YouTube-bad4iz-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A)
+[![VK](https://img.shields.io/badge/VK-bad4iz-blue?style=flat-square&logo=vk)](https://vk.com/bad4iz)
+[![VK Group](https://img.shields.io/badge/VK_Photo-Wonderland_64-blue?style=flat-square&logo=vk)](https://vk.com/wonderland_64)
 [![Telegram](https://img.shields.io/badge/Telegram-wonderland__064-blue?style=flat-square&logo=telegram)](https://t.me/wonderland_064)
 
 *Помимо программирования занимаюсь подводной и не только фотографией* 🤿📸
