@@ -6,7 +6,7 @@
 
 # Привет, я Евгений aka Bad4iz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+Source+Contributor;TDD+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+Source+Contributor;Tests+Must+Have)](https://git.io/typing-svg)
 
 
 [![Website](https://img.shields.io/badge/Website-bad4iz.ru-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bad4iz.ru)
