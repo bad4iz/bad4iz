@@ -45,13 +45,13 @@ https://vuetifyjs.com
 - [scroll aka http://taotajima.jp/](https://bad4iz.github.io/scroll-three.js/)
 
 ### npm package
-- [shallowly](https://www.npmjs.com/package/shallowly) - 🏝️ - The Modern Unit Testing Tool for React
-- [color-picture](https://www.npmjs.com/package/color-picture) 
-- [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload)
-- [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react)
-- [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin)
-- [cuon-matrix](https://www.npmjs.com/package/cuon-matrix)
-- [prettier-plugin-delete-eslint-disable](https://www.npmjs.com/package/prettier-plugin-delete-eslint-disable)
+- [shallowly](https://www.npmjs.com/package/shallowly) ![npm](https://img.shields.io/npm/dt/shallowly) - Modern shallow renderer for React 18+. Enzyme-compatible API, 2x faster, with TypeScript support
+- [color-picture](https://www.npmjs.com/package/color-picture) ![npm](https://img.shields.io/npm/dt/color-picture) - Получение среднего цвета изображения
+- [lazy-with-preload](https://www.npmjs.com/package/lazy-with-preload) ![npm](https://img.shields.io/npm/dt/lazy-with-preload) - React lazy с возможностью предзагрузки
+- [file-signature-in-react](https://www.npmjs.com/package/file-signature-in-react) ![npm](https://img.shields.io/npm/dt/file-signature-in-react) - Компонент на React для подписи файла ЭЦП
+- [crypto-pro-cadesplugin](https://www.npmjs.com/package/crypto-pro-cadesplugin) ![npm](https://img.shields.io/npm/dt/crypto-pro-cadesplugin) - API для работы с КриптоПро и cadesplugin
+- [cuon-matrix](https://www.npmjs.com/package/cuon-matrix) ![npm](https://img.shields.io/npm/dt/cuon-matrix) - Матрицы трансформации для OpenGL/WebGL
+- [prettier-plugin-delete-eslint-disable](https://www.npmjs.com/package/prettier-plugin-delete-eslint-disable) ![npm](https://img.shields.io/npm/dt/prettier-plugin-delete-eslint-disable) - Плагин Prettier для удаления eslint-disable комментариев
 
 ## Есть немного на Codewars
 ![](https://www.codewars.com/users/bad4iz/badges/large)
