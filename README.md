@@ -121,13 +121,12 @@
 ✦ Код должен быть простым в чтении и понимании
 ✦ Правило пионера: оставляй код лучше, чем он был
 ✦ Безумие — делать одно и то же и ждать разных результатов
+✦ Код без тестов — это legacy код
 ```
 
 <div align="center">
 
-### Пропагандирую TDD
-
-![TDD](https://img.shields.io/badge/TDD-Advocate-success?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-Must_Have-success?style=for-the-badge)
 
 </div>
 
