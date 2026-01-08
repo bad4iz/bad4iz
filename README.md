@@ -102,7 +102,7 @@
 
 ---
 
-## 📊 Codewars
+## 📊 Есть немного на Codewars
 
 <div align="center">
 
