@@ -51,7 +51,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Slim Framework
 [![Slim](https://img.shields.io/badge/Slim_Framework-Документация_RU-74a045?style=for-the-badge)](http://slimframework.ru)
@@ -59,7 +59,7 @@
 Создал русскую документацию для фреймворка
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Vuetify
 [![Vuetify](https://img.shields.io/badge/Vuetify-Team_Member-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com)
