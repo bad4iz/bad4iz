@@ -1,12 +1,13 @@
+> *"Я не слишком хороший программист. Но я программист с хорошими привычками"*
+>
+> — Кент Бек
+
 <div align="center">
 
 # Привет, я Евгений aka Bad4iz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+Source+Contributor;TDD+Advocate)](https://git.io/typing-svg)
 
-> *"Я не слишком хороший программист. Но я программист с хорошими привычками"*
->
-> — Кент Бек
 
 [![Website](https://img.shields.io/badge/Website-bad4iz.ru-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bad4iz.ru)
 [![YouTube](https://img.shields.io/badge/YouTube-bad4iz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A)
@@ -21,7 +22,7 @@
 
 * [![VK Photo](https://img.shields.io/badge/VK_Photo-Wonderland_64-blue?style=flat-square&logo=vk)](https://vk.com/wonderland_64)
 Помимо программирования занимаюсь подводной и не только фотографией* 🤿📸 
-*КМС по стрельбе из блочного лука* 🏹
+* КМС по стрельбе из блочного лука* 🏹
 > *"Мастерство — это не 10 000 разных выстрелов. Это один выстрел, повторённый 10 000 раз."*
 
 ---
@@ -101,13 +102,11 @@
 
 ---
 
-## 📊 Stats
+## 📊 Codewars
 
 <div align="center">
 
 ![Codewars](https://www.codewars.com/users/bad4iz/badges/large)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bad4iz&theme=tokyonight&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 </div>
 
