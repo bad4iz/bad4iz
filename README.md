@@ -19,8 +19,8 @@
 
 ### Обо мне
 
-*Помимо программирования занимаюсь подводной и не только фотографией* 🤿📸 [![VK Photo](https://img.shields.io/badge/VK_Photo-Wonderland_64-blue?style=flat-square&logo=vk)](https://vk.com/wonderland_64)
-
+* [![VK Photo](https://img.shields.io/badge/VK_Photo-Wonderland_64-blue?style=flat-square&logo=vk)](https://vk.com/wonderland_64)
+Помимо программирования занимаюсь подводной и не только фотографией* 🤿📸 
 *КМС по стрельбе из блочного лука* 🏹
 > *"Мастерство — это не 10 000 разных выстрелов. Это один выстрел, повторённый 10 000 раз."*
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔧 Мои инструменты
+## 🔧 Мои IDE 
 
 | Репозиторий | Описание |
 |-------------|----------|
@@ -73,14 +73,14 @@
 
 ### Contributor
 
-[![Three.js](https://img.shields.io/badge/Three.js-Contributor-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Vitest](https://img.shields.io/badge/Vitest-Contributor-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+* [![Three.js](https://img.shields.io/badge/Three.js-Contributor-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
+* [![Vitest](https://img.shields.io/badge/Vitest-Contributor-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
 
 ---
 
 ## 📦 NPM Пакеты
 
-| Пакет | Скачивания | Описание |
+| Пакет | Скачиваний | Описание |
 |-------|------------|----------|
 | [shallowly](https://www.npmjs.com/package/shallowly) | ![npm](https://img.shields.io/npm/dt/shallowly?color=CB3837&label=) | Modern shallow renderer for React 18+ |
 | [color-picture](https://www.npmjs.com/package/color-picture) | ![npm](https://img.shields.io/npm/dt/color-picture?color=CB3837&label=) | Получение среднего цвета изображения |
@@ -101,15 +101,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bad4iz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bad4iz&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Codewars](https://www.codewars.com/users/bad4iz/badges/large)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bad4iz&theme=tokyonight&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 </div>
 
