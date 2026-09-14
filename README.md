@@ -90,13 +90,16 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>📦 Сборка и CI</h3>
+<h3>📦 Сборка и CI/CD</h3>
 <p>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&amp;logo=webpack&amp;logoColor=8DD6F9" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+<img alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&amp;logo=travisci&amp;logoColor=white" />
+<img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
 </p>
+<p>Настраивал CI/CD в GitHub Actions и Travis CI; в GitLab — собственные пайплайны.</p>
 </td>
 </tr>
 <tr>
