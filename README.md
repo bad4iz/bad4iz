@@ -31,26 +31,128 @@
 
 ## 🛠 Технологии
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java Core — основы](https://img.shields.io/badge/Java_Core-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Slim Framework](https://img.shields.io/badge/Slim_Framework-74A045?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
-![LazyGit](https://img.shields.io/badge/LazyGit-2A9D8F?style=for-the-badge&logo=git&logoColor=white)
+Веб-интерфейсы, тестирование, 3D-графика и мобильные приложения — технологии из моих проектов.
 
-**UI-библиотеки**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💻 Языки</h3>
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚛️ Веб-приложения</h3>
+<p>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
+<img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 Вёрстка и UI</h3>
+<p>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
+<img alt="Sass / SCSS" src="https://img.shields.io/badge/Sass_%2F_SCSS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" />
+<img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&amp;logo=vuetify&amp;logoColor=white" />
+<img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white" />
+<img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&amp;logo=antdesign&amp;logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🧩 Сервер и API</h3>
+<p>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
+<img alt="Slim Framework" src="https://img.shields.io/badge/Slim_Framework-74A045?style=for-the-badge" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" />
+<img alt="Apollo Client" src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&amp;logo=apollographql&amp;logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧪 Тестирование и качество</h3>
+<p>
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&amp;logo=eslint&amp;logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7B93E" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>📦 Сборка и CI</h3>
+<p>
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&amp;logo=webpack&amp;logoColor=8DD6F9" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧊 3D и анимация</h3>
+<p>
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" />
+<img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white" />
+<img alt="GLSL" src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge" />
+<img alt="GSAP" src="https://img.shields.io/badge/GSAP-0E100F?style=for-the-badge&amp;logo=gsap&amp;logoColor=88CE02" />
+<img alt="React Three Fiber" src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>📱 Мобильная разработка</h3>
+<p>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" />
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=17202A" />
+<img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-0B6E99?style=for-the-badge" />
+<img alt="Bluetooth LE" src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&amp;logo=bluetooth&amp;logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🗄️ Окружение и базы данных</h3>
+<p>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-293137?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⌨️ Редакторы и CLI</h3>
+<p>
+<img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&amp;logo=neovim&amp;logoColor=white" />
+<img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&amp;logo=opencode&amp;logoColor=white" />
+<img alt="LazyGit" src="https://img.shields.io/badge/LazyGit-2A9D8F?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
 
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+### 📚 Ранее изучал и использовал
+
+![Java Core — основы](https://img.shields.io/badge/Java_Core_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular 2](https://img.shields.io/badge/Angular_2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+Java — базовые знания Core. Angular 2, Nuxt и Redux — прежний и учебный опыт.
 
 ---
 
