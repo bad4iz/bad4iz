@@ -46,6 +46,12 @@
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![LazyGit](https://img.shields.io/badge/LazyGit-2A9D8F?style=for-the-badge&logo=git&logoColor=white)
 
+**UI-библиотеки**
+
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
 ---
 
 ## 🔧 Мои IDE 
