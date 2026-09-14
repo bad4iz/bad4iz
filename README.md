@@ -135,10 +135,11 @@
 
 ## 🔗 Ещё обо мне
 
+🌐 **[bad4iz.ru](https://bad4iz.ru/)** — мой личный сайт: заметки о жизни, прочитанные книги и интерактивные финансовые калькуляторы.
+
 <div align="center">
 
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/bad4iz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bad4iz/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/201500/bad4iz)
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/ru/profiles/bad4iz)
 
