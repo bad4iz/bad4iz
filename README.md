@@ -41,7 +41,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="Python — основы языка" src="https://img.shields.io/badge/Python_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="Java Core — основы" src="https://img.shields.io/badge/Java_Core_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white" />
 </p>
 </td>
@@ -50,7 +51,9 @@
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&amp;logo=nuxt&amp;logoColor=00DC82" />
 <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
 <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
 </p>
 </td>
@@ -150,12 +153,9 @@
 
 ### 📚 Ранее изучал и использовал
 
-![Java Core — основы](https://img.shields.io/badge/Java_Core_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular 2](https://img.shields.io/badge/Angular_2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=nuxt&logoColor=00DC82)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-Java — базовые знания Core. Angular 2, Nuxt и Redux — прежний и учебный опыт.
+Учебный опыт с Angular 2.
 
 ---
 
