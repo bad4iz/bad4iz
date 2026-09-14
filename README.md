@@ -31,7 +31,7 @@
 
 ## 🛠 Технологии
 
-Веб-интерфейсы, тестирование, 3D-графика и мобильные приложения — технологии из моих проектов.
+Веб-приложения, картография, тестирование, 3D-графика и мобильная разработка — технологии из моих рабочих и личных проектов.
 
 <table>
 <tr>
@@ -55,6 +55,7 @@
 <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
 <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=reactrouter&amp;logoColor=white" />
 </p>
 </td>
 </tr>
@@ -69,6 +70,7 @@
 <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&amp;logo=vuetify&amp;logoColor=white" />
 <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white" />
 <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&amp;logo=antdesign&amp;logoColor=white" />
+<img alt="Emotion" src="https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -79,6 +81,27 @@
 <img alt="Slim Framework" src="https://img.shields.io/badge/Slim_Framework-74A045?style=for-the-badge" />
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" />
 <img alt="Apollo Client" src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&amp;logo=apollographql&amp;logoColor=white" />
+<img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧰 Формы и таблицы</h3>
+<p>
+<img alt="React Final Form" src="https://img.shields.io/badge/React_Final_Form-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+<img alt="Redux Form" src="https://img.shields.io/badge/Redux_Form-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
+<img alt="React Table" src="https://img.shields.io/badge/React_Table-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+<img alt="dnd-kit" src="https://img.shields.io/badge/dnd--kit-2563EB?style=for-the-badge" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ Карты и геоданные</h3>
+<p>
+<img alt="2GIS MapGL" src="https://img.shields.io/badge/2GIS_MapGL-278F2B?style=for-the-badge" />
+<img alt="OpenLayers" src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&amp;logo=openlayers&amp;logoColor=white" />
+<img alt="Turf.js" src="https://img.shields.io/badge/Turf.js-88B04B?style=for-the-badge" />
+<img alt="Proj4js" src="https://img.shields.io/badge/Proj4js-46699E?style=for-the-badge" />
 </p>
 </td>
 </tr>
@@ -90,6 +113,10 @@
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&amp;logo=eslint&amp;logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7B93E" />
+<img alt="React Testing Library" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&amp;logo=testinglibrary&amp;logoColor=white" />
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&amp;logo=storybook&amp;logoColor=white" />
+<img alt="Husky" src="https://img.shields.io/badge/Husky-374151?style=for-the-badge" />
+<img alt="Commitlint" src="https://img.shields.io/badge/Commitlint-000000?style=for-the-badge&amp;logo=commitlint&amp;logoColor=white" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -101,18 +128,20 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&amp;logo=travisci&amp;logoColor=white" />
 <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
+<img alt="TypeDoc" src="https://img.shields.io/badge/TypeDoc-3178C6?style=for-the-badge" />
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧊 3D и анимация</h3>
+<h3>🧊 3D, анимация и графы</h3>
 <p>
 <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" />
 <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white" />
 <img alt="GLSL" src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge" />
 <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0E100F?style=for-the-badge&amp;logo=gsap&amp;logoColor=88CE02" />
 <img alt="React Three Fiber" src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img alt="vis-network" src="https://img.shields.io/badge/vis--network-6479A6?style=for-the-badge" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -137,6 +166,7 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-293137?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" />
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
 </p>
 </td>
 <td width="50%" valign="top">
