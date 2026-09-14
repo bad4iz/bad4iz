@@ -12,6 +12,7 @@
 [![Website](https://img.shields.io/badge/Website-bad4iz.ru-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bad4iz.ru)
 [![YouTube](https://img.shields.io/badge/YouTube-bad4iz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtZ0FuQ2spb0PwxB_Mpzn-A)
 [![VK](https://img.shields.io/badge/VK-bad4iz-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/bad4iz)
+[![VK Photo](https://img.shields.io/badge/VK_Photo-Wonderland__64-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/wonderland_64)
 [![Telegram](https://img.shields.io/badge/Telegram-wonderland__064-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wonderland_064)
 
 </div>
