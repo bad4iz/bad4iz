@@ -55,6 +55,7 @@
 <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
 <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="Vue Router" src="https://img.shields.io/badge/Vue_Router-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=reactrouter&amp;logoColor=white" />
 </p>
 </td>
