@@ -56,6 +56,7 @@
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
 <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
 <img alt="Vue Router" src="https://img.shields.io/badge/Vue_Router-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="Vue I18n" src="https://img.shields.io/badge/Vue_I18n-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=reactrouter&amp;logoColor=white" />
 </p>
 </td>
@@ -69,6 +70,7 @@
 <img alt="Sass / SCSS" src="https://img.shields.io/badge/Sass_%2F_SCSS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" />
 <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&amp;logo=vuetify&amp;logoColor=white" />
+<img alt="BootstrapVue" src="https://img.shields.io/badge/BootstrapVue-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
 <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white" />
 <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&amp;logo=antdesign&amp;logoColor=white" />
 <img alt="Emotion" src="https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge" />
@@ -125,6 +127,7 @@
 <p>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&amp;logo=webpack&amp;logoColor=8DD6F9" />
+<img alt="Vue CLI" src="https://img.shields.io/badge/Vue_CLI-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&amp;logo=travisci&amp;logoColor=white" />
