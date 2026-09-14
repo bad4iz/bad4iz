@@ -41,8 +41,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-<img alt="Java Core" src="https://img.shields.io/badge/Java_Core_%E2%80%94_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="Java Core" src="https://img.shields.io/badge/Java_Core-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white" />
 </p>
 </td>
