@@ -39,19 +39,22 @@ Frontend-разработчик и технический лидер. С 2019 г
 
 ---
 
-## 📝 Статьи на Хабре
-
-Пишу о frontend-разработке, JavaScript и тестировании.
-
-- [Почему именно юнит-тесты: искусство укрощения кода маленькими шагами](https://habr.com/ru/articles/927596/) — тестирование React-компонентов и влияние тестов на архитектуру.
-- [Как я перестал бояться тестов и полюбил зелёный CI](https://habr.com/ru/articles/921152/) — подходы к тестированию фронтенда и выбор уровня проверок.
-- [ECMAScript Proposal: Array.prototype.{flat,flatMap}](https://habr.com/ru/articles/433820/) — методы `flat` и `flatMap` с примерами работы с массивами.
-
-[Все мои статьи на Хабре →](https://habr.com/ru/users/bad4iz/articles/)
-
----
-
 ## 🛠 Технологии
+
+### Основной стек
+
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D" />
+<img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
+</p>
+
+<details>
+<summary>Весь стек</summary>
 
 Веб-приложения, картография, тестирование, 3D-графика и мобильная разработка — технологии из моих рабочих и личных проектов.
 
@@ -211,6 +214,20 @@ Frontend-разработчик и технический лидер. С 2019 г
 ![Angular 2](https://img.shields.io/badge/Angular_2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 Учебный опыт с Angular 2.
+
+</details>
+
+---
+
+## 📝 Статьи на Хабре
+
+Пишу о frontend-разработке, JavaScript и тестировании.
+
+- [Почему именно юнит-тесты: искусство укрощения кода маленькими шагами](https://habr.com/ru/articles/927596/) — тестирование React-компонентов и влияние тестов на архитектуру.
+- [Как я перестал бояться тестов и полюбил зелёный CI](https://habr.com/ru/articles/921152/) — подходы к тестированию фронтенда и выбор уровня проверок.
+- [ECMAScript Proposal: Array.prototype.{flat,flatMap}](https://habr.com/ru/articles/433820/) — методы `flat` и `flatMap` с примерами работы с массивами.
+
+[Все мои статьи на Хабре →](https://habr.com/ru/users/bad4iz/articles/)
 
 ---
 
