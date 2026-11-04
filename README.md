@@ -14,7 +14,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-wonderland__064-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wonderland_064)
 
 </div>
+---
 
+<div align="center">
+![Codewars](https://www.codewars.com/users/bad4iz/badges/large)
+</div>
 ---
 
 ## Обо мне
